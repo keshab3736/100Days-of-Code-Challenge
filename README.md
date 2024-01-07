@@ -20,3 +20,5 @@ I will be logging my daily progress in the log.md file, where I'll document the 
 Let's connect! Feel free to reach out on Twitter or Linkedin to share your insights, collaborate, or just say Hello😊.
 
 Here's to 100 Days of Python and the exciting journey ahead!🐍💻
+#100DaysOfCode
+
